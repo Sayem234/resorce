@@ -1,0 +1,12 @@
+[
+  {
+    "subject": "Mathematics",
+    "file": "resources/subjects/math-algebra.pdf",
+    "title": "Algebra Full Notes"
+  },
+  {
+    "subject": "Physics",
+    "file": "resources/subjects/physics-mechanics.pdf",
+    "title": "Mechanics Summary"
+  }
+]

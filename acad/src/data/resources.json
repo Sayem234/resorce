@@ -1,0 +1,16 @@
+[
+  {
+    "semester": "1st",
+    "examType": "mid",
+    "course": "Course 1",
+    "file": "resources/1st/mid/course1.pdf",
+    "title": "CSE1101 Mid 2023"
+  },
+  {
+    "semester": "1st",
+    "examType": "final",
+    "course": "Course 1",
+    "file": "resources/1st/final/course1.pdf",
+    "title": "CSE1101 Final 2023"
+  }
+]
